@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: user-client-9999
+    name: user-client
 
   cloud:
     consul:
