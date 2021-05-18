@@ -24,10 +24,10 @@ public class UserController {
 
     @GetMapping("/user/showProduct")
     public String showProduct() {
+        log.info("用户服务调用商品服务……");
         //RestTemplate 调用
         /*RestTemplate restTemplate = new RestTemplate();
-        String res = restTemplate.getForObject(PRODUCT_URL, String.class);
-        log.info("用户服务调用商品服务……");*/
+        String res = restTemplate.getForObject(PRODUCT_URL, String.class);*/
         //获取某个服务的所有实例
         //List<ServiceInstance> instances = discoveryClient.getInstances("product-client");
         //负载均衡获取某个服务中的一个服务实例
