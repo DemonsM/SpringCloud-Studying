@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.ink</groupId>
-    <artifactId>user-client-9999</artifactId>
+    <artifactId>user-service-9999</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>user-client-9999</name>
     <description>Demo project for Spring Boot</description>

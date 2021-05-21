@@ -11,7 +11,7 @@
     <groupId>com.ink</groupId>
     <artifactId>product-client-9998</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>product-client-9998</name>
+    <name>product-service-9998</name>
     <description>Demo project for Spring Boot</description>
     <properties>
         <java.version>1.8</java.version>
